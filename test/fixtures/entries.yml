@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meal_type: MyString
+  calores: 1
+  protiens: 1
+  carbohydrates: 
+  fats: 1
+
+two:
+  meal_type: MyString
+  calores: 1
+  protiens: 1
+  carbohydrates: 
+  fats: 1
